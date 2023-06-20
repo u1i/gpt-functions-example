@@ -1,4 +1,4 @@
-# GPT3 SQL Query Example
+# GPT-3 SQL Query Example
 
 ## Example 1
 
@@ -41,3 +41,8 @@ Response:  We found 2 employees with HR in their job title.
 ## 5: Run Python Script
 
 `python3 03-query.py`
+
+## To Do
+
+* better error handling
+* move to GPT 3.5/4 to reduce hallucinations
